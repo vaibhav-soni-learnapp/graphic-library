@@ -15,6 +15,11 @@ course_images = {
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(2).jpg",
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(3).jpg"
     ]
+    "Course C": [
+        "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(1).jpg",
+        "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(2).jpg",
+        "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(3).jpg"
+    ]
 }
 
 # Step 4
@@ -23,7 +28,7 @@ def display_images(urls):
         response = requests.get(url)
         image_content = response.content
         image = Image.open(BytesIO(image_content))
-        st.image(image, caption=url)
+        st.image(image, width=500)
 
 # Step 3
 selected_course = st.selectbox("Select a course:", list(course_images.keys()))
