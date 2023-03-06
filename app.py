@@ -6,9 +6,11 @@ from io import BytesIO
 # Step 2
 course_images = {
     "Course A": [
-        "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(1).jpg",
-        "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(2).jpg",
-        "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(3).jpg"
+        base_url = "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis"
+        for i in range(1, 30):
+        url = base_url + str(i) + ".jpg"
+         print(url)
+
     ],
     "Course B": [
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(1).jpg",
