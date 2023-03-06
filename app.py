@@ -14,7 +14,7 @@ course_images = {
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(1).jpg",
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(2).jpg",
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(3).jpg"
-    ]
+    ],
     "Course C": [
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(1).jpg",
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(2).jpg",
