@@ -163,7 +163,7 @@ course_images = {
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(69).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(70).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/cash-flow-statement/cashflow+(71).jpg"
-]
+],
     "Course D - Basics of Trading": [
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/basics-of-trading/tradingbasics+(1).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/basics-of-trading/tradingbasics+(2).jpg",
