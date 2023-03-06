@@ -3,6 +3,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
+st.set_page_config(page_title="LA Graphic Library")
 
 # Step 2
 course_images = {
