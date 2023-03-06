@@ -3,15 +3,10 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-base_url = "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis"
-for i in range(1, 30):
-    url = base_url + str(i) + ".jpg"
-    print(url)
 
 # Step 2
 course_images = {
     "Course A": [
-   [
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(1).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(2).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(3).jpg",
@@ -42,9 +37,6 @@ course_images = {
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(28).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(29).jpg",
       "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis+(30).jpg"
-]
-        
-
     ],
     "Course B": [
         "https://graphics-library-project.s3.amazonaws.com/graphic+library/boring-portfolio/boring+(1).jpg",
