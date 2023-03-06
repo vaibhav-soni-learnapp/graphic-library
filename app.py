@@ -11,7 +11,38 @@ for i in range(1, 30):
 # Step 2
 course_images = {
     "Course A": [
-    print(url)
+   [
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(1).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(2).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(3).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(4).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(5).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(6).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(7).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(8).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(9).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(10).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(11).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(12).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(13).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(14).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(15).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(16).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(17).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(18).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(19).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(20).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(21).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(22).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(23).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(24).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(25).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(26).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(27).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(28).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(29).jpg",
+  "https://graphics-library-project.s3.amazonaws.com/graphic+library/technical-analysis/technicalanalysis(30).jpg"
+]
         
 
     ],
